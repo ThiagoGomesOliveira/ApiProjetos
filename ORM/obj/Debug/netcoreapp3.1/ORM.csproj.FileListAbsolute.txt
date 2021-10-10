@@ -1,0 +1,9 @@
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\bin\Debug\netcoreapp3.1\ORM.deps.json
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\bin\Debug\netcoreapp3.1\ORM.dll
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\bin\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\obj\Debug\netcoreapp3.1\ORM.dll
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\obj\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\thiag\source\repos\ProjetoEuax\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.AssemblyReference.cache
